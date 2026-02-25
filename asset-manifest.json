@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iqac-skr-kdp/static/css/main.e6c13ad2.css",
+    "main.js": "/iqac-skr-kdp/static/js/main.7fb17e20.js",
+    "static/js/453.b92dd98b.chunk.js": "/iqac-skr-kdp/static/js/453.b92dd98b.chunk.js",
+    "index.html": "/iqac-skr-kdp/index.html",
+    "main.e6c13ad2.css.map": "/iqac-skr-kdp/static/css/main.e6c13ad2.css.map",
+    "main.7fb17e20.js.map": "/iqac-skr-kdp/static/js/main.7fb17e20.js.map",
+    "453.b92dd98b.chunk.js.map": "/iqac-skr-kdp/static/js/453.b92dd98b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7fb17e20.js"
+  ]
+}
